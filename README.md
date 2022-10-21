@@ -1,12 +1,16 @@
 # 環境構築
 
-ステップ１: cloneする
+## ステップ１: このリポジトリをテンプレートとして、自身の Github にリポジトリを作成する
+
+<img width="1440" alt="スクリーンショット 2021-12-24 11 05 14" src="https://user-images.githubusercontent.com/63081802/147306983-b09827a5-cdbd-4061-a1c3-390496b266a8.png">
+
+## ステップ2: cloneする
 
 ```
 git clone git@github.com:tech-quest/blog_modal.git
 ```
 
-ステップ２: Dockerのコンテナを立ち上げる
+## ステップ3: Dockerのコンテナを立ち上げる
 
 ```
 docker-compose up

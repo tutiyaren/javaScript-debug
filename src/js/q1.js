@@ -1,4 +1,4 @@
-const modal = document.querySelector('.modul');
+const modal = document.querySelector('.modal');
 
 /*
  * modalの表示非表示処理
